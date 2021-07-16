@@ -11,3 +11,4 @@ Datasets are present in code format as it will be downloaded as per the requirem
 <a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/image_classification.ipynb">2. image classification</a><br>
 <a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/text_classification.ipynb">3. text classification</a><br>
 <a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/generic_task.ipynb">4. generic task</a><br>
+<a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/custom_task_tutorial.ipynb">5. custom task tutorial</a><br>
