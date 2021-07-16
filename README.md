@@ -7,6 +7,7 @@ Titanic Dataset have been uploded as it's been used in this.
 
 Datasets are present in code format as it will be downloaded as per the requirements.
 
-1. tabular_classification.ipynb
-2. image_classification.ipynb
-3. text_classification.ipynb
+<a href="url">1. tabular_classification</a>
+<a href="url">2. image_classification</a>
+<a href="url">3. text_classification</a>
+<a href="url">4. generic_task</a>
