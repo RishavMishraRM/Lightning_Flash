@@ -7,7 +7,7 @@ Titanic Dataset have been uploded as it's been used in this.
 
 Datasets are present in code format as it will be downloaded as per the requirements.
 
-<a href="url">1. tabular_classification</a><br>
-<a href="url">2. image_classification</a><br>
-<a href="url">3. text_classification</a><br>
-<a href="url">4. generic_task</a><br>
+<a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/tabular_classification.ipynb">1. tabular_classification</a><br>
+<a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/image_classification.ipynb">2. image_classification</a><br>
+<a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/text_classification.ipynb">3. text_classification</a><br>
+<a href="https://github.com/RishavMishraRM/Lightning_Flash/blob/main/generic_task.ipynb">4. generic_task</a><br>
